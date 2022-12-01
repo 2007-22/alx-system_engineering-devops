@@ -1,1 +1,2 @@
-hello in am
+#!/bin/bash;   
+pwd
